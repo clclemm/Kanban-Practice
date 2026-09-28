@@ -70,3 +70,5 @@ A high-level overview:
 - `.github/workflows/autograde.yml` — GitHub Actions workflow to check that required files are present.  
 
 ---
+
+Completed Kanban Fundamentals - Catherine Clemmons
